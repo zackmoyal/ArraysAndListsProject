@@ -8,24 +8,36 @@ namespace ArraysAndLists
         {
             //TODO:
 
-            // Create an int Array and populate numbers 1-10
+            // Create an int array and populate it with numbers 1-10
+            
 
-            /* Create two Lists of type int.
-             * Name one List "evens"
-             * Name the other List "odds"
+            /* Create a list of type int
+             * Name the list "evens"
              */
 
-            /* Using either a foreach or for loop,
-             * nest an if statement to check to see
-             *  if a number is even or odd.
-             * Then add those numbers to either the evens List
-             * or the odds List
+            
+            /* Create another list of type int
+             * Name the list "odds"
+             */
+            
+
+             /* Using either a foreach or for loop,
+             * iterate through the array you populated with 10 numbers.
+             * Inside the scope of the loop,
+             * check to see if each number in the array is even or odd.
+             * If the number is even, add it to the evens list.
+             * If the number is odd, add it to the odds list.
              */
 
-            /* Now using foreach or for loops,
-             * display each List of even and odd numbers
-             *
-             * Try to be creative in your display
+
+
+            /* Using a foreach loop,
+             * display the numbers in your "evens" list
+             */
+            
+
+            /* Using a for loop,
+             * display the numbers in your "odds" list
              */
         }
     }
